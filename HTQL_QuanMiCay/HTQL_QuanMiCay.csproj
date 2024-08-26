@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HTQL_QuanMiCay</RootNamespace>
+    <AssemblyName>HTQL_QuanMiCay</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDAO.cs" />
+    <Compile Include="DAO\CategoryDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\TableDAO.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\Bill.cs" />
+    <Compile Include="DTO\BillInfo.cs" />
+    <Compile Include="DTO\Category.cs" />
+    <Compile Include="DTO\Food.cs" />
+    <Compile Include="DTO\Menu.cs" />
+    <Compile Include="DTO\Table.cs" />
+    <Compile Include="fAccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAccountProfile.Designer.cs">
+      <DependentUpon>fAccountProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAdmin.Designer.cs">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTableManager.Designer.cs">
+      <DependentUpon>fTableManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fAccountProfile.resx">
+      <DependentUpon>fAccountProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAdmin.resx">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTableManager.resx">
+      <DependentUpon>fTableManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kim chi hải sản.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.-mi-tomyum-bo-1506.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.-mi-tomyum-bo-15061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.-mi-kim-chi-ca-3634.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.-mi-kim-chi-ga-5674.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.-mi-lau-thai-6074.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.-mi-gogi-heo-my-1776.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neenf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tomyumbo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.-lau-tomyum-hai-san%28-2-nguoi%29-6255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30.-lau-kim-chi-bo-%28-4-nguoi%29-6183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.-lau-kim-chi-hai-san-%28-4-nguoi%29-7092.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.-lau-kim-chi-bo-my-%28-4-nguoi%29-3842.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.-lau-thai-bo%28-4-nguoi%29-2413.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36.-com-tron-han-quoc-3502.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37.-dui-ga-cay-7360.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38.-mi-xao-hai-san-8787.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39.-mi-xao-ga-6543.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40.-kimbap-4912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.-takoyaki-6324.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\59.-tra-dao-5968.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61.-tra-sua-thai-9546.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62.-sting-lon-2037.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63.-pepsi-lon-0981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64.-7up-lon-3094.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\65.-redbull-lon-4588.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8931.png_860.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuoc-ngot-coca-cola-chai-300ml-202110200815513983.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra-dao-tuoi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9eee51613fe118738e99b50694cf7833.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neenf1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-xanh-mau-nuoc-tuyet-dep-ks533.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mau-background-don-gian-dep-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8a732265235b08f7e2b2900f7f8cad77.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mau-background-don-gian-dep-11.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
