@@ -73,7 +73,8 @@
             this.chứcNăngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1126, 33);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 1, 0, 1);
+            this.menuStrip1.Size = new System.Drawing.Size(751, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -81,7 +82,7 @@
             // 
             this.adminToolStripMenuItem.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adminToolStripMenuItem.Name = "adminToolStripMenuItem";
-            this.adminToolStripMenuItem.Size = new System.Drawing.Size(85, 29);
+            this.adminToolStripMenuItem.Size = new System.Drawing.Size(61, 22);
             this.adminToolStripMenuItem.Text = "Admin";
             this.adminToolStripMenuItem.Click += new System.EventHandler(this.adminToolStripMenuItem_Click);
             // 
@@ -92,20 +93,20 @@
             this.đăngXuấtToolStripMenuItem});
             this.thôngTinTàiKhoảnToolStripMenuItem.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.thôngTinTàiKhoảnToolStripMenuItem.Name = "thôngTinTàiKhoảnToolStripMenuItem";
-            this.thôngTinTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(204, 29);
+            this.thôngTinTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.thôngTinTàiKhoảnToolStripMenuItem.Text = "Thông tin tài khoản";
             // 
             // thôngTinCáNhânToolStripMenuItem
             // 
             this.thôngTinCáNhânToolStripMenuItem.Name = "thôngTinCáNhânToolStripMenuItem";
-            this.thôngTinCáNhânToolStripMenuItem.Size = new System.Drawing.Size(264, 30);
+            this.thôngTinCáNhânToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
             this.thôngTinCáNhânToolStripMenuItem.Text = "Thông tin cá nhân";
             this.thôngTinCáNhânToolStripMenuItem.Click += new System.EventHandler(this.thôngTinCáNhânToolStripMenuItem_Click);
             // 
             // đăngXuấtToolStripMenuItem
             // 
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(264, 30);
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
             this.đăngXuấtToolStripMenuItem.Text = "Đăng xuất";
             this.đăngXuấtToolStripMenuItem.Click += new System.EventHandler(this.đăngXuấtToolStripMenuItem_Click);
             // 
@@ -116,14 +117,14 @@
             this.thêmMónToolStripMenuItem});
             this.chứcNăngToolStripMenuItem.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chứcNăngToolStripMenuItem.Name = "chứcNăngToolStripMenuItem";
-            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(129, 29);
+            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
             this.chứcNăngToolStripMenuItem.Text = "Chức năng";
             // 
             // thanhToánToolStripMenuItem
             // 
             this.thanhToánToolStripMenuItem.Name = "thanhToánToolStripMenuItem";
             this.thanhToánToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
-            this.thanhToánToolStripMenuItem.Size = new System.Drawing.Size(277, 30);
+            this.thanhToánToolStripMenuItem.Size = new System.Drawing.Size(200, 22);
             this.thanhToánToolStripMenuItem.Text = "Thanh toán";
             this.thanhToánToolStripMenuItem.Click += new System.EventHandler(this.thanhToánToolStripMenuItem_Click);
             // 
@@ -131,43 +132,46 @@
             // 
             this.thêmMónToolStripMenuItem.Name = "thêmMónToolStripMenuItem";
             this.thêmMónToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
-            this.thêmMónToolStripMenuItem.Size = new System.Drawing.Size(277, 30);
+            this.thêmMónToolStripMenuItem.Size = new System.Drawing.Size(200, 22);
             this.thêmMónToolStripMenuItem.Text = "Thêm món";
             this.thêmMónToolStripMenuItem.Click += new System.EventHandler(this.thêmMónToolStripMenuItem_Click);
             // 
             // flpTable
             // 
             this.flpTable.AutoScroll = true;
-            this.flpTable.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.flpTable.BackColor = System.Drawing.Color.White;
             this.flpTable.Font = new System.Drawing.Font("Arial", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.flpTable.Location = new System.Drawing.Point(12, 38);
+            this.flpTable.Location = new System.Drawing.Point(8, 25);
+            this.flpTable.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.flpTable.Name = "flpTable";
-            this.flpTable.Size = new System.Drawing.Size(507, 578);
+            this.flpTable.Size = new System.Drawing.Size(338, 376);
             this.flpTable.TabIndex = 7;
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.Controls.Add(this.nmFoodCount);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.cbFood);
             this.panel1.Controls.Add(this.cbCategory);
-            this.panel1.Location = new System.Drawing.Point(525, 38);
+            this.panel1.Location = new System.Drawing.Point(350, 25);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(595, 97);
+            this.panel1.Size = new System.Drawing.Size(397, 63);
             this.panel1.TabIndex = 8;
             // 
             // nmFoodCount
             // 
             this.nmFoodCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nmFoodCount.Location = new System.Drawing.Point(508, 29);
+            this.nmFoodCount.Location = new System.Drawing.Point(339, 19);
+            this.nmFoodCount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nmFoodCount.Minimum = new decimal(new int[] {
             100,
             0,
             0,
             -2147483648});
             this.nmFoodCount.Name = "nmFoodCount";
-            this.nmFoodCount.Size = new System.Drawing.Size(84, 32);
+            this.nmFoodCount.Size = new System.Drawing.Size(56, 24);
             this.nmFoodCount.TabIndex = 3;
             this.nmFoodCount.Value = new decimal(new int[] {
             1,
@@ -177,12 +181,14 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Yellow;
-            this.button1.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.BackColor = System.Drawing.Color.RosyBrown;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft JhengHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(350, 3);
+            this.button1.Location = new System.Drawing.Point(233, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(152, 91);
+            this.button1.Size = new System.Drawing.Size(101, 59);
             this.button1.TabIndex = 2;
             this.button1.Text = "Thêm món";
             this.button1.UseVisualStyleBackColor = false;
@@ -190,37 +196,40 @@
             // 
             // cbFood
             // 
-            this.cbFood.BackColor = System.Drawing.SystemColors.Info;
+            this.cbFood.BackColor = System.Drawing.SystemColors.Control;
             this.cbFood.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbFood.FormattingEnabled = true;
-            this.cbFood.Location = new System.Drawing.Point(3, 52);
+            this.cbFood.Location = new System.Drawing.Point(2, 34);
+            this.cbFood.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbFood.Name = "cbFood";
-            this.cbFood.Size = new System.Drawing.Size(341, 33);
+            this.cbFood.Size = new System.Drawing.Size(229, 24);
             this.cbFood.TabIndex = 1;
             // 
             // cbCategory
             // 
-            this.cbCategory.BackColor = System.Drawing.SystemColors.Info;
+            this.cbCategory.BackColor = System.Drawing.SystemColors.Control;
             this.cbCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbCategory.FormattingEnabled = true;
-            this.cbCategory.Location = new System.Drawing.Point(3, 3);
+            this.cbCategory.Location = new System.Drawing.Point(2, 2);
+            this.cbCategory.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbCategory.Name = "cbCategory";
-            this.cbCategory.Size = new System.Drawing.Size(341, 33);
+            this.cbCategory.Size = new System.Drawing.Size(229, 24);
             this.cbCategory.TabIndex = 0;
             this.cbCategory.SelectedIndexChanged += new System.EventHandler(this.cbCategory_SelectedIndexChanged);
             // 
             // pnBill
             // 
             this.pnBill.Controls.Add(this.lsvBill);
-            this.pnBill.Location = new System.Drawing.Point(525, 141);
+            this.pnBill.Location = new System.Drawing.Point(350, 92);
+            this.pnBill.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnBill.Name = "pnBill";
-            this.pnBill.Size = new System.Drawing.Size(595, 375);
+            this.pnBill.Size = new System.Drawing.Size(397, 244);
             this.pnBill.TabIndex = 10;
             // 
             // lsvBill
             // 
             this.lsvBill.AutoArrange = false;
-            this.lsvBill.BackColor = System.Drawing.Color.PeachPuff;
+            this.lsvBill.BackColor = System.Drawing.Color.White;
             this.lsvBill.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1,
             this.columnHeader2,
@@ -230,9 +239,10 @@
             this.lsvBill.FullRowSelect = true;
             this.lsvBill.GridLines = true;
             this.lsvBill.HideSelection = false;
-            this.lsvBill.Location = new System.Drawing.Point(3, 3);
+            this.lsvBill.Location = new System.Drawing.Point(2, 2);
+            this.lsvBill.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lsvBill.Name = "lsvBill";
-            this.lsvBill.Size = new System.Drawing.Size(589, 369);
+            this.lsvBill.Size = new System.Drawing.Size(394, 241);
             this.lsvBill.TabIndex = 0;
             this.lsvBill.UseCompatibleStateImageBehavior = false;
             this.lsvBill.View = System.Windows.Forms.View.Details;
@@ -259,39 +269,43 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.panel2.BackColor = System.Drawing.Color.White;
             this.panel2.Controls.Add(this.txbTotalPrice);
             this.panel2.Controls.Add(this.btnSwichTable);
             this.panel2.Controls.Add(this.cbxSwichTable);
             this.panel2.Controls.Add(this.nmDisCount);
             this.panel2.Controls.Add(this.btnDiscount);
             this.panel2.Controls.Add(this.btncheck);
-            this.panel2.Location = new System.Drawing.Point(528, 522);
+            this.panel2.Location = new System.Drawing.Point(352, 339);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(595, 94);
+            this.panel2.Size = new System.Drawing.Size(397, 61);
             this.panel2.TabIndex = 11;
             // 
             // txbTotalPrice
             // 
-            this.txbTotalPrice.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+            this.txbTotalPrice.BackColor = System.Drawing.SystemColors.Control;
             this.txbTotalPrice.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txbTotalPrice.ForeColor = System.Drawing.Color.Black;
-            this.txbTotalPrice.Location = new System.Drawing.Point(280, 30);
+            this.txbTotalPrice.Location = new System.Drawing.Point(187, 20);
+            this.txbTotalPrice.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txbTotalPrice.Name = "txbTotalPrice";
             this.txbTotalPrice.ReadOnly = true;
-            this.txbTotalPrice.Size = new System.Drawing.Size(156, 35);
+            this.txbTotalPrice.Size = new System.Drawing.Size(105, 26);
             this.txbTotalPrice.TabIndex = 9;
             this.txbTotalPrice.Text = "0";
             this.txbTotalPrice.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // btnSwichTable
             // 
-            this.btnSwichTable.BackColor = System.Drawing.Color.Yellow;
-            this.btnSwichTable.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSwichTable.BackColor = System.Drawing.SystemColors.Control;
+            this.btnSwichTable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSwichTable.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnSwichTable.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnSwichTable.Location = new System.Drawing.Point(3, 4);
+            this.btnSwichTable.Location = new System.Drawing.Point(2, 3);
+            this.btnSwichTable.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnSwichTable.Name = "btnSwichTable";
-            this.btnSwichTable.Size = new System.Drawing.Size(134, 43);
+            this.btnSwichTable.Size = new System.Drawing.Size(89, 28);
             this.btnSwichTable.TabIndex = 8;
             this.btnSwichTable.Text = "Chuyển bàn";
             this.btnSwichTable.UseVisualStyleBackColor = false;
@@ -299,49 +313,55 @@
             // 
             // cbxSwichTable
             // 
-            this.cbxSwichTable.BackColor = System.Drawing.SystemColors.Info;
+            this.cbxSwichTable.BackColor = System.Drawing.SystemColors.Control;
             this.cbxSwichTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxSwichTable.FormattingEnabled = true;
-            this.cbxSwichTable.Location = new System.Drawing.Point(3, 52);
+            this.cbxSwichTable.Location = new System.Drawing.Point(2, 34);
+            this.cbxSwichTable.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbxSwichTable.Name = "cbxSwichTable";
-            this.cbxSwichTable.Size = new System.Drawing.Size(134, 33);
+            this.cbxSwichTable.Size = new System.Drawing.Size(91, 24);
             this.cbxSwichTable.TabIndex = 7;
             // 
             // nmDisCount
             // 
-            this.nmDisCount.BackColor = System.Drawing.SystemColors.Info;
+            this.nmDisCount.BackColor = System.Drawing.SystemColors.Control;
             this.nmDisCount.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nmDisCount.Location = new System.Drawing.Point(152, 52);
+            this.nmDisCount.Location = new System.Drawing.Point(101, 34);
+            this.nmDisCount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nmDisCount.Minimum = new decimal(new int[] {
             100,
             0,
             0,
             -2147483648});
             this.nmDisCount.Name = "nmDisCount";
-            this.nmDisCount.Size = new System.Drawing.Size(122, 33);
+            this.nmDisCount.Size = new System.Drawing.Size(81, 24);
             this.nmDisCount.TabIndex = 5;
             this.nmDisCount.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // btnDiscount
             // 
-            this.btnDiscount.BackColor = System.Drawing.Color.Yellow;
-            this.btnDiscount.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDiscount.BackColor = System.Drawing.SystemColors.Control;
+            this.btnDiscount.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDiscount.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnDiscount.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnDiscount.Location = new System.Drawing.Point(152, 4);
+            this.btnDiscount.Location = new System.Drawing.Point(101, 3);
+            this.btnDiscount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnDiscount.Name = "btnDiscount";
-            this.btnDiscount.Size = new System.Drawing.Size(122, 43);
+            this.btnDiscount.Size = new System.Drawing.Size(81, 28);
             this.btnDiscount.TabIndex = 4;
             this.btnDiscount.Text = "Giảm giá";
             this.btnDiscount.UseVisualStyleBackColor = false;
             // 
             // btncheck
             // 
-            this.btncheck.BackColor = System.Drawing.Color.Yellow;
-            this.btncheck.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncheck.BackColor = System.Drawing.Color.RosyBrown;
+            this.btncheck.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btncheck.Font = new System.Drawing.Font("Microsoft JhengHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btncheck.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btncheck.Location = new System.Drawing.Point(442, 3);
+            this.btncheck.Location = new System.Drawing.Point(295, 2);
+            this.btncheck.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btncheck.Name = "btncheck";
-            this.btncheck.Size = new System.Drawing.Size(150, 88);
+            this.btncheck.Size = new System.Drawing.Size(100, 57);
             this.btncheck.TabIndex = 3;
             this.btncheck.Text = "Thanh toán";
             this.btncheck.UseVisualStyleBackColor = false;
@@ -349,9 +369,9 @@
             // 
             // fTableManager
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1126, 628);
+            this.ClientSize = new System.Drawing.Size(751, 408);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.pnBill);
             this.Controls.Add(this.panel1);
@@ -359,6 +379,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "fTableManager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Hệ thống quản lý quán mì cay";

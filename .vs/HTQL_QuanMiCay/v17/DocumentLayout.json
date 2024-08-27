@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|d:\\projects\\spicy_noodle_management_system\\htql_quanmicay\\htql_quanmicay\\spicy-noodle-management-system\\htql_quanmicay\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|d:\\projects\\spicy_noodle_management_system\\htql_quanmicay\\htql_quanmicay\\spicy-noodle-management-system\\htql_quanmicay\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|d:\\projects\\spicy_noodle_management_system\\htql_quanmicay\\htql_quanmicay\\spicy-noodle-management-system\\htql_quanmicay\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\htql_quanmicay\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9128FC8D-1C4B-4E74-89DB-A5C339A5B5BA}|HTQL_QuanMiCay\\HTQL_QuanMiCay.csproj|solutionrelative:htql_quanmicay\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +90,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "fAccountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fAccountProfile.cs",
+              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fAccountProfile.cs [Design]",
+              "RelativeToolTip": "HTQL_QuanMiCay\\fAccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:23:54.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\Menu.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\Menu.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Food.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\Food.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\Food.cs",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\Category.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\Category.cs",
@@ -126,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "BillInfo.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\BillInfo.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\BillInfo.cs",
@@ -138,19 +154,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "TableDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\TableDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\TableDAO.cs",
               "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\TableDAO.cs",
               "RelativeToolTip": "HTQL_QuanMiCay\\DAO\\TableDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:28:18.057Z"
+              "WhenOpened": "2024-08-26T19:28:18.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MenuDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\MenuDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\MenuDAO.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "FoodDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\FoodDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\FoodDAO.cs",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\CategoryDAO.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "BillInfoDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\BillInfoDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\BillInfoDAO.cs",
@@ -198,52 +215,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "fTableManager.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fTableManager.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fTableManager.cs",
-              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fTableManager.cs [Design]",
-              "RelativeToolTip": "..\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fTableManager.cs [Design]",
+              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fTableManager.cs [Design]",
+              "RelativeToolTip": "HTQL_QuanMiCay\\fTableManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:24:39.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "fLogin.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fLogin.cs",
-              "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fLogin.cs",
-              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fLogin.cs [Design]",
-              "RelativeToolTip": "..\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:24:38.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "fAdmin.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fAdmin.cs",
-              "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fAdmin.cs",
-              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fAdmin.cs [Design]",
-              "RelativeToolTip": "..\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\fAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:24:34.64Z"
+              "WhenOpened": "2024-08-26T19:24:39.752Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fLogin.cs",
+              "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fLogin.cs",
+              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fLogin.cs [Design]",
+              "RelativeToolTip": "HTQL_QuanMiCay\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:24:38.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fAdmin.cs",
+              "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fAdmin.cs",
+              "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fAdmin.cs [Design]",
+              "RelativeToolTip": "HTQL_QuanMiCay\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:24:34.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "fTableManager.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fTableManager.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\fTableManager.cs",
               "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\fTableManager.cs",
               "RelativeToolTip": "HTQL_QuanMiCay\\fTableManager.cs",
-              "ViewState": "AQIAAPQAAAAAAAAAAAAAAAMBAAAMAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAlwEgAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:15:40.185Z"
+              "WhenOpened": "2024-08-26T19:15:40.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "BillDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\BillDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\BillDAO.cs",
@@ -255,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Bill.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\Bill.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\Bill.cs",
@@ -267,20 +288,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DataProvider.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\DataProvider.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\DataProvider.cs",
               "ToolTip": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\DataProvider.cs",
               "RelativeToolTip": "HTQL_QuanMiCay\\DAO\\DataProvider.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T19:03:09.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AccountDAO.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DAO\\AccountDAO.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DAO\\AccountDAO.cs",
@@ -292,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\Program.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\Program.cs",
@@ -304,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\Projects\\Spicy_Noodle_Management_System\\HTQL_QuanMiCay\\HTQL_QuanMiCay\\Spicy-Noodle-Management-System\\HTQL_QuanMiCay\\DTO\\Account.cs",
               "RelativeDocumentMoniker": "HTQL_QuanMiCay\\DTO\\Account.cs",

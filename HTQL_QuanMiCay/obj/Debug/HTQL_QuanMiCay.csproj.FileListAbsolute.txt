@@ -26,3 +26,16 @@ D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_Qu
 D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.csproj.CoreCompileInputs.cache
 D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.exe
 D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.pdb
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\bin\Debug\HTQL_QuanMiCay.exe.config
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\bin\Debug\HTQL_QuanMiCay.exe
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\bin\Debug\HTQL_QuanMiCay.pdb
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.csproj.AssemblyReference.cache
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.fAccountProfile.resources
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.fAdmin.resources
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.fLogin.resources
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.fTableManager.resources
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.Properties.Resources.resources
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.csproj.GenerateResource.cache
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.csproj.CoreCompileInputs.cache
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.exe
+D:\Projects\Spicy_Noodle_Management_System\HTQL_QuanMiCay\HTQL_QuanMiCay\Spicy-Noodle-Management-System\HTQL_QuanMiCay\obj\Debug\HTQL_QuanMiCay.pdb
